@@ -39,7 +39,6 @@ The **SystemVerilog testbench** is designed to verify the functionality of the S
 
 1. The **top module** generates the clock and provides it to the testbench interface.  
 2. The **testbench** resets the FIFO, randomizes the input signals, performs write/read operations.  
-3. A **monitor** continuously samples the interface signals, validates the output data, and records coverage metrics.
 
 ### Main Components
 
