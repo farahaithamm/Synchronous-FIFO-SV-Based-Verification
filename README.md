@@ -71,7 +71,7 @@ To work with this project, you’ll need a **Verilog/SystemVerilog simulator** t
 
 ### 1. Quick Simulation (Recommended)
 
-A preconfigured script `run_fifo.do` is provided to automate the simulation process.
+A preconfigured script `run.do` is provided to automate the simulation process.
 
 **Steps:**
 1. Ensure your simulator is properly installed and licensed.  
