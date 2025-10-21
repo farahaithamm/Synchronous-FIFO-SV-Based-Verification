@@ -60,7 +60,7 @@ Assertions are conditionally compiled to allow flexible inclusion during verific
 
 ├── RTL/                               # the RTL design files for the FIFO
 ├── SV Based Verification/             # Verification related files
-└── Project_Report.pdf                 # Detailed project report
+├── Project_Report.pdf                 # Detailed project report
 
 ## Getting Started
 
